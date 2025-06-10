@@ -2,13 +2,13 @@
 A passionate cyber security analyst from India
 # Hi, I'm Manikandan! 👋
 
-![Header Image](https://media.giphy.com/media/3o6ZsXvQi8mwU2k1T6/giphy.gif) <!-- Example GIF -->
+![Header Image](https://images.app.goo.gl/EPGxv6iU3fEszWwZ6) <!-- Example GIF -->
 
 Welcome to my GitHub profile. I'm passionate about **[Your Main Interests or Fields]** and enjoy exploring new technologies and solving complex problems.
 
 ## 🚀 About Me
 
-I'm a **[Your Role/Title]** with experience in **[mention your key skills or technologies you specialize in]**. I love working on innovative projects and contributing to the tech community.
+I'm a **ASPIRING CYBER SECURITY ANALYST** with experience in **NETWORK SECURITY, LOG ANALYSIS, FIREWALL MANAGEMENT, SIEM MANAGEMENT, SECURITY OPERATIONS, SECURITY MONITORING**. I love working on innovative projects and contributing to the tech community.
 
 ## 🛠️ Skills and Technologies
 
