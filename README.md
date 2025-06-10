@@ -2,7 +2,7 @@
 A passionate cyber security analyst from India
 # Hi, I'm Manikandan! 👋
 
-![Header Image](https://images.app.goo.gl/EPGxv6iU3fEszWwZ6) <!-- Example GIF -->
+![Header Image] (https://www.technologysolutions.net/wp-content/uploads/2023/09/pros-and-cons-scaled-2560x1280.jpeg) <!-- Example GIF -->
 
 Welcome to my GitHub profile. I'm passionate about **[Your Main Interests or Fields]** and enjoy exploring new technologies and solving complex problems.
 
